@@ -1,4 +1,4 @@
 # Machine-Learning27
 Machine Learning with Python.
 ----------------------------
-K Nearest Neighbors.
+K Nearest Neighbors (KNN).
